@@ -143,6 +143,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+jgcs_venv/
+OLD/
 
 # Spyder project settings
 .spyderproject
