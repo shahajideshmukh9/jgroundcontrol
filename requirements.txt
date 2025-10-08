@@ -41,3 +41,9 @@ python-json-logger==2.0.7
 black==23.12.0
 flake8==6.1.0
 mypy==1.7.1
+
+#Gazebo integration
+grpcio=1.75.1
+mavsdk=3.10.2
+protobuf=6.32.1
+pymavlink=2.4.49
